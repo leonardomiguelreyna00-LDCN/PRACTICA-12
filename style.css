@@ -154,3 +154,19 @@ footer {
         width: 94%;
     }
 }
+
+#integrantes {
+    background-color: #1b1b1b;
+    padding: 25px;
+    border-left: 4px solid #e50914;
+    border-radius: 10px;
+}
+
+#integrantes h2 {
+    color: #ff3030;
+}
+
+#integrantes li {
+    color: white;
+    margin-bottom: 10px;
+}
